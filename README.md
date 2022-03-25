@@ -2,5 +2,5 @@
 
 You can find here training material and further documentation on ggPMX.
 
-The **nlmixr vignette** can be found here: 
-https://cran.microsoft.com/snapshot/2020-06-14/web/packages/ggPMX/vignettes/ggPMX-nlmixr.html
+The **WCoP tutorial video** can be found here: 
+https://drive.google.com/file/d/1Lr-IVyEcNI0Hyl1M0u23qu7VJfwuzH-y/view?usp=sharing
