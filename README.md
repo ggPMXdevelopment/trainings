@@ -1,4 +1,3 @@
-# Trainings and further documentation
-ggPMX training material
+# ggPMX trainings and further documentation
 
-You can find here documentation and training material on ggPMX.
+You can find here training material and further documentation on ggPMX.
